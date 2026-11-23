@@ -1,10 +1,10 @@
 {
   "weights": {
-    "na": 0.7605,
-    "eu": 0.1577,
-    "pac": 0.0818
+    "na": 0.7563,
+    "eu": 0.1612,
+    "pac": 0.0825
   },
-  "asOf": "2026-11-18",
+  "asOf": "2026-11-20",
   "source": "iShares MSCI World ETF (suma per país)",
-  "updatedAt": "2026-11-19T16:12:53Z"
+  "updatedAt": "2026-11-23T18:53:49Z"
 }
